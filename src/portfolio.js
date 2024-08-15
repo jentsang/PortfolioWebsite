@@ -7,7 +7,7 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Jenjen's Portfolio",
+  title: "Jen's Portfolio",
   description: "",
   og: {
     title: "Ashutosh Hathidara Portfolio",
